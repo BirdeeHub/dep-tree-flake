@@ -1,0 +1,1 @@
+This repo is still in the proof of concept stage. It packages [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree). A more automatic method of creating gomod2nix.toml will be required, and the structure will need to change away from flakes to be submitted to nixpkgs. But for now, it works.
